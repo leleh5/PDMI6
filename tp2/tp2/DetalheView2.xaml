@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tp2.DetalheView2">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="ID:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding Id}" FontSize="Medium" FontAttributes="Bold" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Descrição:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding Descricao}" FontSize="Medium" FontAttributes="Bold" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Categoria:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding Categoria}" FontSize="Medium" FontAttributes="Bold" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Quantidade:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding Quantidade}" FontSize="Medium" FontAttributes="Bold" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Preço:" FontSize="Medium" HorizontalOptions="FillAndExpand" />
+                <Label Text="{Binding Preco}" FontSize="Medium" FontAttributes="Bold" />
+            </StackLayout>
+
+            <Button x:Name="btnVoltar" Text="Home" Clicked="btnVoltar_Clicked"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

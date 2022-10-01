@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tp2.Produto">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid  Padding="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label Text="ID" Grid.Row="0" Grid.Column="0" />
+                <Entry x:Name="ID" Grid.Row="0" Grid.Column="1"/>
+                <Label Text="Descricao" Grid.Row="1" Grid.Column="0" />
+                <Entry x:Name="Descricao" Grid.Row="1" Grid.Column="1"/>
+                <Label Text="Categoria" Grid.Row="2" Grid.Column="0" />
+                <Entry x:Name="Categoria" Grid.Row="2" Grid.Column="1"/>
+                <Label Text="Quantidade" Grid.Row="3" Grid.Column="0" />
+                <Entry x:Name="Quantidade" Grid.Row="3" Grid.Column="1"/>
+                <Label Text="Preco" Grid.Row="4" Grid.Column="0" />
+                <Entry x:Name="Preco" Grid.Row="4" Grid.Column="1"/>
+
+
+                <Button Grid.Row="5" Grid.Column="1" Text="Enviar" Clicked="NovaPagina"></Button>
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
