@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPFINAL.Views.NovaMercadoria"
+             >
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Entry x:Name="txtNome" Placeholder="Nome" />
+            <Entry x:Name="txtPeso" Placeholder="Peso" />
+            <Entry x:Name="txtProdutor" Placeholder="Produtor" />
+            <Entry x:Name="txtEmail" Placeholder="E-mail Produtor" />
+            <Entry x:Name="txtNCM" Placeholder="NCM" />
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btnSalvar" Text="Salvar" Clicked="OnSalvar" BackgroundColor="#9b59b6" TextColor="White" HorizontalOptions="FillAndExpand"/>
+                <Button x:Name="btnCancelar" Text="Cancelar" Clicked="OnCancelar" BackgroundColor="#9b59b6" TextColor="White" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

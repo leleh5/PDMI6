@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TPFINAL.MainPage"
+             Title="TP - FINAL">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Novo" Order="Primary"  Clicked="OnNovo"/>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Padding="20">
+        <Label Text="Mercadorias" Font="18" HorizontalTextAlignment="Center" Margin="10" />
+        <ListView x:Name="lstMercadorias" ItemsSource="{Binding Mercadorias}" ItemTapped="OnMercadoriaTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="5,0,5,0">
+                            <Label Text="{Binding Nome}" Font="25" VerticalTextAlignment="Center"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" >
+            <Button Text="Coordenadas"  Clicked="OnCoord" HorizontalOptions="FillAndExpand" BackgroundColor="#9b59b6" TextColor="White"></Button>
+            <Button Text="Autores"  Clicked="OnAutores" HorizontalOptions="FillAndExpand" BackgroundColor="#9b59b6" TextColor="White"></Button>
+        </StackLayout>
+       
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,48 @@
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.deps.json
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.AssemblyReference.cache
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfoInputs.cache
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfo.cs
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\Alef Ribeiro\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\NovaMercadoria.xaml.g.cs
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.deps.json
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.AssemblyReference.cache
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\NovaMercadoria.xaml.g.cs
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfoInputs.cache
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfo.cs
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Alef1\Source\Repos\PDMI6-TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.deps.json
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.AssemblyReference.cache
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\NovaMercadoria.xaml.g.cs
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfoInputs.cache
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfo.cs
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\refint\TPFINAL.dll
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\MatheusHenriquePalin\Downloads\PDMI6-TPFINAL-main\PDMI6-TPFINAL-main\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\ref\TPFINAL.dll
