@@ -2,8 +2,8 @@
 
 TP Final PDMI6
 
-### Alef dos Santos Lopes Ribeiro - CB3002331
+### Bruna de Paula da Silva - CB3008061
 
-### Lucas Guazzelli - CB3001679
+### Letícia Vitória Rodrigues Rosa - CB3013138
 
-#### No video de demo temos as representações de CRUD Adicionar, Editar e Excluir e temos tambem o Desafio das cordenadas mostrando Latitude e Longitude
+#### No video mostramos o CRUD, adicionando, editando, deletando e listando os produtos. E, mostramos também as cordenadas, mostrando Latitude e Longitude do local atual da execução
